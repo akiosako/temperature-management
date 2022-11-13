@@ -12,9 +12,9 @@
 ・園関係者（管理者）が手動で回収、仕分け、管理をする手間と無駄をなくす。  
 
 【システム導入前フロー】
-![](../OneDrive/画像/UMLアクティビティ図：before.png)  
+<img width="465" alt="UMLアクティビティ図：before" src="https://user-images.githubusercontent.com/107123973/201517329-b5db106e-3a95-4b8e-9e30-7cd8e15461a7.png"> 
 【システム導入後フロー】
-![](../OneDrive/画像/UMLアクティビティ図：after.png)
+<img width="458" alt="UMLアクティビティ図：after" src="https://user-images.githubusercontent.com/107123973/201517323-6b781d3d-2514-4e41-997e-96694c306071.png">
 
 ### 業務一覧  
 | 保護者（バス登園）          | 保護者（歩き登園）           | 保護者（欠席）           | バス添乗       | 事務担当             |
@@ -61,4 +61,4 @@
 | ④電話での欠席連絡            | 欠席通知機能          | 37.5度以上の場合に欠席連絡可 | ※コメント欄に必要な記載をして送信可（デフォルトは「発熱のため欠席します」） |
 
 
-![](../OneDrive/画像/ユーザー登録の流れ.png)
+<img width="256" alt="ユーザー登録の流れ" src="https://user-images.githubusercontent.com/107123973/201517331-57376071-0bf2-4264-a748-df54153d4166.png">

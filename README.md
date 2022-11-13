@@ -11,10 +11,14 @@
 ・保護者：貴重な朝の時間に手書きで、毎日冗長な記述を繰り返すことなく、またメモの用意を忘れることなく体温管理、欠席の連絡が出来る。  
 ・園関係者（管理者）が手動で回収、仕分け、管理をする手間と無駄をなくす。  
 
-【システム導入前フロー】
-<img width="465" alt="UMLアクティビティ図：before" src="https://user-images.githubusercontent.com/107123973/201517329-b5db106e-3a95-4b8e-9e30-7cd8e15461a7.png"> 
-【システム導入後フロー】
-<img width="458" alt="UMLアクティビティ図：after" src="https://user-images.githubusercontent.com/107123973/201517323-6b781d3d-2514-4e41-997e-96694c306071.png">
+【システム導入前フロー】  
+
+<img width="465" alt="UMLアクティビティ図：before" src="https://user-images.githubusercontent.com/107123973/201517329-b5db106e-3a95-4b8e-9e30-7cd8e15461a7.png">   
+
+【システム導入後フロー】  
+
+<img width="458" alt="UMLアクティビティ図：after" src="https://user-images.githubusercontent.com/107123973/201517323-6b781d3d-2514-4e41-997e-96694c306071.png">  
+
 
 ### 業務一覧  
 | 保護者（バス登園）          | 保護者（歩き登園）           | 保護者（欠席）           | バス添乗       | 事務担当             |
